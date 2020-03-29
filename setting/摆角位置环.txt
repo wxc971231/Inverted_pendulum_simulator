@@ -1,0 +1,15 @@
+Inverted pendulum simulator setting data
+
+UI version:
+v1.0
+
+Rod data:
+0.3;300.0;1;
+
+PID para:
+True;-150.0;0.0;-150.0;
+False;0;0;0;
+False;0.0;0.0;0.0;
+False;0.0;0.0;0.0;
+
+end
